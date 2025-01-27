@@ -12,7 +12,7 @@ A Flask-based API service for managing deployments, organizations, and clusters 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SamarthDariya/MLOPS_submission_Samarth.git
    ```
 
 2. **Create and activate virtual environment**
